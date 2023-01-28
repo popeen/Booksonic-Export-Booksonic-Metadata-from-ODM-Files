@@ -14,6 +14,7 @@ At the moment the platform consists of
 
  - **[Booksonic Air](https://github.com/popeen/Booksonic-Air)** - A server for streaming your audiobooks, successor to the original Booksonic server. Based on Airsonic.
  - **[Booksonic App](https://github.com/popeen/Booksonic-App)** - An android app for connection to Booksonic servers. Based on DSub
+ - **[Download Librivox top 100](https://github.com/popeen/Download-Librivox-Top-100)** - A script for downloading the most popular audiobooks from Librivox
  
 **Upcoming:**
  - **Booksonic Bridge** - This is an upcoming serverside software that will allow you to use third party servers like Plex, Emby, Youtube etc. It is currently in closed beta and no timeframe is given.
